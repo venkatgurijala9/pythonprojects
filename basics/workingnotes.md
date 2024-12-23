@@ -7,13 +7,13 @@ md files-- mark down files
 2. chatgpt account
 3. udemy account
 4. working with git & it's command
-5. linux -- bash or git bash (windows) & mac (Terminal)
+5. linux -- bash or git bash (windows) & mac (Terminal)  -- cheat sheet
 6. vscode -- visual studio code  -- editor
 
 
 Projects
 1. directory structure -- organization or company structure
-2. tools for any projeects
+2. tools for any projects -- draw.io, code editor, terminal
 3. One programming -- python
 4. Application structure
 5. git and code repository structure
